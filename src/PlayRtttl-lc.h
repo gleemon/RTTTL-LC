@@ -1,9 +1,7 @@
 /*
  * PlayRtttl.h
  *
- * Includes 21 sample melodies.
- * The example melodies may have copyrights you have to respect.
- * More RTTTL songs can be found under http://www.picaxe.com/RTTTL-Ringtones-for-Tune-Command/
+ * Melodies and tunes moved to a separate file by Lee Cooper.
  *
  *  Copyright (C) 2018  Armin Joachimsmeyer
  *  armin.joachimsmeyer@gmail.com
@@ -13,7 +11,9 @@
  *     bhagman@roguerobotics.com
  *
  *
- *  This file is part of PlayRttl https://github.com/ArminJo/PlayRttl.
+ *  Original file is part of PlayRttl https://github.com/ArminJo/PlayRttl.  
+ *  This repository is not longer working.  This file has been modified by 
+ *  Lee Cooper and is now available at https://github.com/gleemon/RTTTL-LC
  *
  *  PlayRttl is free software: you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by
@@ -91,6 +91,7 @@ struct playRtttlState {
  */
 /*
  * Disclaimer: These ringtone melodies are for personal enjoyment only. All copyright belongs to its respective author.
+ * comment/uncomment the following lines to determine which group of RingTones to include.
  */
 #include <RingTones.h>
 // #include <XmasTunes.h>
