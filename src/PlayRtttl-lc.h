@@ -1,5 +1,5 @@
 /*
- * PlayRtttl.h
+ * PlayRtttl-lc.h
  *
  * Melodies and tunes moved to a separate file by Lee Cooper.
  *
