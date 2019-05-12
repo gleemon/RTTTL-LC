@@ -31,8 +31,8 @@
  *
  */
 
-#ifndef SRC_PLAYRTTTL_H_
-#define SRC_PLAYRTTTL_H_
+#ifndef SRC_PLAYRTTTL-LC_H_
+#define SRC_PLAYRTTTL-LC_H_
 
 #include <avr/pgmspace.h>
 #include "pitches.h"
