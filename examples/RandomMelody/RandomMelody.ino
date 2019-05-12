@@ -26,10 +26,9 @@
  */
 
 #include <Arduino.h>
+#include <PlayRtttl-LC.h>
 
-#include <PlayRtttl.h>
-
-#define VERSION_EXAMPLE "1.0"
+#define VERSION_EXAMPLE "1.1"
 
 const int TONE_PIN = 11;
 const int BUTTON_PIN = 2;
