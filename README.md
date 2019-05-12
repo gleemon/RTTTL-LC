@@ -1,9 +1,10 @@
-# PlayRtttl
+# Rtttl-LC (Based on PlayRtttl)
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Build Status](https://travis-ci.org/ArminJo/PlayRtttl.svg?branch=master)](https://travis-ci.org/ArminJo/PlayRtttl)
 
 Improved Arduino library version of the RTTTL.pde example code written by Brett Hagman http://www.roguerobotics.com/  bhagman@roguerobotics.com
+Modified by Lee Cooper (lee@leemoweb.com)
  - Plays RTTTL melodies/ringtones from FLASH or RAM.
  - Non blocking version.
  - Name output function.
