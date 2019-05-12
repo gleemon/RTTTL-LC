@@ -27,7 +27,7 @@
 
 #include <Arduino.h>
 
-#include <PlayRtttl.h>
+#include <PlayRtttl-LC.h>
 
 #define VERSION_EXAMPLE "1.0"
 
