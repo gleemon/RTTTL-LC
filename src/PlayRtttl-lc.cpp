@@ -1,5 +1,5 @@
 /*
- * PlayRttl.cpp
+ * PlayRttl-lc.cpp
  * Plays RTTTL melodies / ringtones from FLASH or RAM.
  * Includes a non blocking version and a name output function.
  *
@@ -31,7 +31,7 @@
 
 #include <Arduino.h>
 
-#include "PlayRtttl.h"
+#include "PlayRtttl-lc.h"
 
 //uncomment next line to see debug output, which shows the note played, on serial.
 //#define DEBUG
